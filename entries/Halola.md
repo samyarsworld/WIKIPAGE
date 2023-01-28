@@ -1,0 +1,3 @@
+# Halola
+
+A psychotic wizard is a fictional character often depicted as having lost touch with reality and behaving in unpredictable and dangerous ways. They are often characterized as having a mastery of powerful and dangerous magic, but their mental instability prevents them from using it responsibly. They may be portrayed as a menace to society, feared and shunned by others, or as a tragic figure struggling with their own demons. In fantasy stories, they often serve as a powerful and terrifying antagonist for the protagonist to overcome.

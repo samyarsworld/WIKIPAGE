@@ -1,0 +1,3 @@
+# Kraken
+
+An animal wizard is a fictional character that is an animal with the ability to perform magic. They are often portrayed as having a deep connection to nature and the natural world, and use their magic to protect and preserve it. They may be able to communicate with other animals and have a strong sense of community. They may have unique abilities such as shapeshifting, or have the ability to cast spells. The animal wizard can be a wise and powerful mentor for the protagonist, or a fierce protector of their territory and kin. They are common in fantasy stories and can be found in different forms such as bears, wolves, eagles and many other animals.

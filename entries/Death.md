@@ -1,0 +1,3 @@
+# Death
+
+A wizard who is the god of death is a fictional character who has mastery over death and the afterlife. They are often depicted as powerful and mysterious figures with the ability to control and manipulate the fate of the souls of the dead. They may have the power to bring people back to life or to judge the souls of the deceased. They may also be able to see the future and have knowledge of the secrets of the universe. They are often seen as a fearsome and powerful figure, but also as a necessary one, as death is an integral part of the cycle of life. In fantasy stories, they may serve as an antagonist or a powerful ally, depending on the context of the story.

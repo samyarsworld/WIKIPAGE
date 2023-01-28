@@ -1,0 +1,3 @@
+# Mezinine
+
+An alien wizard is a fictional character who is an extraterrestrial being with advanced magical abilities. They are often portrayed as beings with a high level of intelligence and mastery of powerful and mysterious magic. They may have unique physical characteristics that set them apart from humans and other Earthly creatures, such as multiple limbs or unusual skin pigmentation. They may come from a highly advanced civilization, with technology and magic that far surpasses that of Earth, and may be viewed as both a potential ally and a formidable enemy. In science fiction and fantasy stories, they may serve as a source of knowledge and power for the protagonist, or as a mysterious and powerful force to be reckoned with.
