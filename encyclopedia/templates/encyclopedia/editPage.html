@@ -1,0 +1,25 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    Edit Page {{ title }}
+{% endblock %}
+
+{% block body %}
+    <h1>Edit Page {{ title }}</h1>
+    {% if message %}
+        <p style="color:rgb(148, 50, 50)">{{ message }}</p>
+    {% endif %}
+    
+    <form action="{% url 'save_page' %}" method="post">
+        {% csrf_token %}
+        <label for="title">Enter Title:</label>
+        <input type="text" name="title" value="{{ title }}">
+        <br>
+        <label for="description">Enter Description:</label>
+        <br>
+        <textarea name="description">{{ content }}</textarea>
+        <br>
+        <input style="width: 100px;" class="mt-2 btn btn-success" type="submit" value="Save Page">
+    </form>
+
+{% endblock %}

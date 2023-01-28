@@ -1,0 +1,16 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    Result
+{% endblock %}
+
+{% block body %}
+    <h1>Results</h1>
+
+    <ul>
+        {% for entry in query_set %}
+            <li><a href="{% url 'entry_page' entry %}">{{ entry }}</a></li>
+        {% endfor %}
+    </ul>
+
+{% endblock %}
